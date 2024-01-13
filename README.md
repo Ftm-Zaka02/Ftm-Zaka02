@@ -38,4 +38,17 @@ class About extends Me
     }
 }
 ```
+<h2> <img width="40px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />  GitHub Stats</h2>
+
+![](https://komarev.com/ghpvc/?username=Ftm-Zaka02&color=aeaeec&style=plastic)
+
+<p align="left">
+<a href="https://github.com/Ftm-Zaka02">
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Ftm-Zaka02&show_icons=true&theme=tokyonight&PAT-1)](https://github.com/Ftm-Zaka02/github-readme-stats"/><br>
+  
+<img height="180em" width="400em" src="https://streak-stats.demolab.com/?user=Ftm-Zaka02&theme=tokyonight"/><br>
+
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ftm-Zaka02&layout=compact&theme=tokyonight&PAT-1)](https://github.com/Ftm-Zaka02/github-readme-stats"/>
+</a>
+</p>
 
