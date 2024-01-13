@@ -2,6 +2,7 @@
 I Entered the world of programming from high school and found my interest in the web field
 I am trying to become a BackEnd Developer</p>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 ```php
 <?php
