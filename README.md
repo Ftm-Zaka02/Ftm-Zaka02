@@ -1,6 +1,5 @@
 
-<img src="https://emojis.slackmojis.com/emojis/images/1660415435/60800/eyes.gif?1660415435" width="30"/>
-<p align="left">Hello, I'm a junior Web Developer
+<img src="https://emojis.slackmojis.com/emojis/images/1660415435/60800/eyes.gif?1660415435" width="30"/>Hello, I'm a junior Web Developer
 I Entered the world of programming from high school and found my interest in the web field
 I am trying to become a BackEnd Developer</p>
 
