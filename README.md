@@ -44,9 +44,7 @@ class About extends Me
 <a href="https://github.com/Ftm-Zaka02">
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Ftm-Zaka02&show_icons=true&theme=tokyonight&PAT-1)](https://github.com/Ftm-Zaka02/github-readme-stats"/>
   
-<img height="180em" width="400em" src="https://streak-stats.demolab.com/?user=Ftm-Zaka02&theme=tokyonight"/><br>
-
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ftm-Zaka02&layout=compact&theme=tokyonight&PAT-1)](https://github.com/Ftm-Zaka02/github-readme-stats"/>
+<img height="180em" width="400em" src="https://streak-stats.demolab.com/?user=Ftm-Zaka02&theme=tokyonight"/> <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ftm-Zaka02&layout=compact&theme=tokyonight&PAT-1)](https://github.com/Ftm-Zaka02/github-readme-stats"/>
 </a>
 </p>
 
