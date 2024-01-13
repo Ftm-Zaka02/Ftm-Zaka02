@@ -23,7 +23,7 @@ I am trying to become a BackEnd Developer</p>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="md logo"  />
   <img width="12" />
-  <p align="left">Learning </p>
+  <p align="left">Focusing on </p>
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
