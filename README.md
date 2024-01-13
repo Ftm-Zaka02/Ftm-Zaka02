@@ -40,7 +40,6 @@ class About extends Me
 ```
 <h2> <img width="40px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />  GitHub Stats</h2>
 
-![](https://komarev.com/ghpvc/?username=Ftm-Zaka02&color=aeaeec&style=plastic)
 
 <p align="left">
 <a href="https://github.com/Ftm-Zaka02">
