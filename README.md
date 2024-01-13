@@ -1,3 +1,5 @@
+
+<img src="https://slackmojis.com/emojis/60800-eyes/" width="30"/>
 <p align="left">Hello, I'm a junior Web Developer
 I Entered the world of programming from high school and found my interest in the web field
 I am trying to become a BackEnd Developer</p>
