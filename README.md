@@ -10,8 +10,7 @@ I am trying to become a BackEnd Developer</p>
 <p align="left">Experiences</p>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -31,8 +30,7 @@ I am trying to become a BackEnd Developer</p>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
 </div>
