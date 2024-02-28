@@ -14,9 +14,9 @@ class About extends Me
     public function getProjectInDevelopment(): object
     {
         return {
-            'Messanger Project' => 'php',
+            'Messanger Project' => 'Laravel',
             'Library Project' => 'Js',
-            'Telegram Robot Project' => 'php'
+            'Telegram Bot Project' => 'Php'
         };
     }
 
