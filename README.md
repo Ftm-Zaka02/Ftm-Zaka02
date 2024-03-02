@@ -26,7 +26,7 @@ class About extends Me
             Php::class,
             Laravel::class,
             MySQL::class,
-            Pgsql,
+            Pgsql::class,
             Javascript::class,
             Html5::class,
             Css3::class,
