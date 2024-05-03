@@ -33,7 +33,7 @@ class About extends Me
 
     public function getFutureGoal(): string
     {
-        return 'Become a BackEnd Developer.';
+        return 'Becoming a Professional BackEnd Developer.';
     }
 }
 ```
