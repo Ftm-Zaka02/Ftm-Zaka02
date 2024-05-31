@@ -1,5 +1,5 @@
 
-Hi, I'm Fateme ZaKa a Junior BackEnd Developer<br>
+Hi, I'm Fateme ZaKa , Junior BackEnd Developer<br>
 I Entered the world of programming from high school and found my interest in the web field<img src="https://emojis.slackmojis.com/emojis/images/1660415350/60615/raising-hands.gif?1660415350" width="30"/>
 
 ```php
