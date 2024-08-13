@@ -24,10 +24,17 @@ class About extends Me
             Php::class,
             Laravel::class,
             MySQL::class,
-            Pgsql::class,
             Javascript::class,
             Html5::class,
             Css3::class,
+        ];
+    }
+
+ public function getExperiences(): array
+    {
+        return [
+            codeigniter => 'Development of project management system'
+            prestashop => 'Balanceuser module development',
         ];
     }
 
