@@ -1,47 +1,12 @@
 
-Hi, I'm Fateme ZaKa , Junior BackEnd Developer<br>
-I Entered the world of programming from high school and found my interest in the web field<img src="https://emojis.slackmojis.com/emojis/images/1660415350/60615/raising-hands.gif?1660415350" width="30"/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/Ftm-ZaKa85227283) 
 
-```php
-<?php
+# 💻 Tech Stack:
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ftm-zaka02&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ftm-zaka02&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ftm-zaka02&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-namespace Fateme Zaka;
-
-class About extends Me
-{
-    public function getProjectInDevelopment(): object
-    {
-        return {
-            'Messanger Project' => 'Laravel',
-            'Library Project' => 'Js',
-            'Telegram Bot Project' => 'Php'
-        };
-    }
-
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Laravel::class,
-            MySQL::class,
-            Javascript::class,
-            Html5::class,
-            Css3::class,
-        ];
-    }
-
- public function getExperiences(): array
-    {
-        return [
-            codeigniter => 'Development of project management system'
-            prestashop => 'Balanceuser module development',
-        ];
-    }
-
-    public function getFutureGoal(): string
-    {
-        return 'Becoming a Professional BackEnd Developer.';
-    }
-}
-```
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
