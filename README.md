@@ -22,19 +22,19 @@ class About extends Me
 
     public function getDailyKnowledge(): array
     {
-        return [
-            Backend {
+        return {
+            [
             Php::class,
             Laravel::class,
             MySQL::class,
             Pgsql::class,
-            }
-            Frontend{
+            ]
+            [
             Javascript::class,
             Html5::class,
             Css3::class,
-            }  
-        ];
+            ] 
+        };
     }
 
     public function getFutureGoal(): string
