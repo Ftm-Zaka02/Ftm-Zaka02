@@ -23,13 +23,13 @@ class About extends Me
     public function getDailyKnowledge(): array
     {
         return {
-            "Backend" => [
+           'Backend' => [
             Php::class,
             Laravel::class,
             MySQL::class,
             Pgsql::class,
             ]
-            "Feontend" => [
+           'Feontend' => [
             Javascript::class,
             Html5::class,
             Css3::class,
