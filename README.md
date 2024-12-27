@@ -7,7 +7,7 @@ I Entered the world of programming from high school and found my interest in the
 ```php
 <?php
 
-namespace Fateme Zaka;
+namespace FatemeZaka;
 
 class About extends Me
 {
